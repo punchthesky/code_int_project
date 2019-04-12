@@ -1,0 +1,11 @@
+C:\collections\TechnicalInterview\TechnicalInterview\TechnicalInterview\bin\Debug\netcoreapp2.1\TechnicalInterview.deps.json
+C:\collections\TechnicalInterview\TechnicalInterview\TechnicalInterview\bin\Debug\netcoreapp2.1\TechnicalInterview.runtimeconfig.json
+C:\collections\TechnicalInterview\TechnicalInterview\TechnicalInterview\bin\Debug\netcoreapp2.1\TechnicalInterview.runtimeconfig.dev.json
+C:\collections\TechnicalInterview\TechnicalInterview\TechnicalInterview\bin\Debug\netcoreapp2.1\TechnicalInterview.dll
+C:\collections\TechnicalInterview\TechnicalInterview\TechnicalInterview\bin\Debug\netcoreapp2.1\TechnicalInterview.pdb
+C:\collections\TechnicalInterview\TechnicalInterview\TechnicalInterview\obj\Debug\netcoreapp2.1\TechnicalInterview.csprojAssemblyReference.cache
+C:\collections\TechnicalInterview\TechnicalInterview\TechnicalInterview\obj\Debug\netcoreapp2.1\TechnicalInterview.csproj.CoreCompileInputs.cache
+C:\collections\TechnicalInterview\TechnicalInterview\TechnicalInterview\obj\Debug\netcoreapp2.1\TechnicalInterview.AssemblyInfoInputs.cache
+C:\collections\TechnicalInterview\TechnicalInterview\TechnicalInterview\obj\Debug\netcoreapp2.1\TechnicalInterview.AssemblyInfo.cs
+C:\collections\TechnicalInterview\TechnicalInterview\TechnicalInterview\obj\Debug\netcoreapp2.1\TechnicalInterview.dll
+C:\collections\TechnicalInterview\TechnicalInterview\TechnicalInterview\obj\Debug\netcoreapp2.1\TechnicalInterview.pdb
